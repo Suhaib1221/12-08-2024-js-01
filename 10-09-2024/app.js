@@ -75,13 +75,68 @@
 //     alert("Enter your guess number for output")
 // }
 
-// Question:07
+//! Question:11
 
-var input = prompt("Enter your number to find even or odd")
-var evenNumber = 2
-var oddNumber = 1
+//  var input1 = +prompt("Enter your first value");
+//  var operatore = prompt("Enter your operator","+ , - , * , / , %");
+//  var input2 = +prompt("Enter your sec value");
 
-for(var i = 0; i ===0 ; i++){
-    +evenNumber 
-}
 
+//  if( operatore == "+"){
+//     document.write((input1+input2));
+//  }
+//  else if ( operatore == "-"){
+//     document.write((input1-input2))
+//  }
+//  else if ( operatore == "*"){
+//     document.write((input1*input2))
+//  }
+//  else if ( operatore == "/"){
+//     document.write((input1/input2))
+//  }
+//  else if ( operatore == "%"){
+//     document.write((input1%input2))
+//  }
+
+ //! Question:08
+
+// var input = +prompt("use any number to know its even or odd")
+// input = input % 3;
+// if(input === 0 ){
+//     document.write("this is divisible by 3")
+// }
+// else {
+//     document.write("this is not divisble by 3")
+
+// }
+
+ //! Question:09
+
+// var input = +prompt("use any number to know its even or odd")
+// input = input % 2;
+// if(input === 0 ){
+//     document.write("its even number")
+// }
+// else {
+//     document.write("it is odd number")
+
+// }
+
+
+ //! Question:10
+
+//  var temp = +prompt("enter tempratue","like 30,40")
+
+
+//  if(temp >= 40){
+//     document.write("<h2>its to hot outside 40</h1>")
+//  }
+//  else if(temp >= 30){
+//     document.write("<h2>the weather today is normal 30</h1>")
+//  }
+//  else if(temp >= 20){
+//     document.write("<h2>today weather is cool 20</h1>")
+//  }
+//  else if(temp >= 10){
+//     document.write("<h2>omg! today weather is so cool 10</h1>")
+//  }
